@@ -24,5 +24,6 @@ fold: 0-9 -- cross-validation fold
 p_i_j: 0/1 -- value of pixel in row i, column j
 
 # MODULE 1 – DIGIT RECOGNITION
-
+![](module1.png)
 # MODULE 2 – ALPHABET RECOGNITION
+![](module2.png)
